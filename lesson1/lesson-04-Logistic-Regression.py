@@ -5,6 +5,9 @@ import numpy as np
 torch.manual_seed(10)
 
 
+
+
+
 # ============================ step 1/5 生成数据 ============================
 sample_nums = 100
 mean_value = 1.7
